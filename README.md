@@ -22,5 +22,5 @@ Este proyecto contiene un notebook en Python que, al ejecutarse, genera un mapa 
 ## Estructura del Proyecto
 
 - `rrt_star.ipynb`: Contiene el código que ejecuta las operaciones y mide el tiempo.
-- `resultados.txt`: Archivo de salida que se genera automáticamente al ejecutar todas las celdas del notebook.
+- `resultados.txt`: Archivo de salida que se genera automáticamente la celda del notebook.
 - `rrt_star_animation.gif`: Archivo de salida que se genera automáticamente al ejecutar la celda del notebook.
